@@ -15,7 +15,7 @@ Operasi ini dimanfaatkan untuk membaca atau menampilkan data sesuai dengan keing
 
 Operasi ini dimanfaatkan untuk memperbarui data yang ada dalam basis data. Operasi ini digunakan untuk mengubah nilai-nilai yang ada dalam koleksi data, tetapi tidak semua data bisa diubah oleh user. Contoh nilai yang tidak bisa diubah dalam Capstone Project ini adalah Kode Pasien. Operasi update ini disediakan dalam menu utama nomor tiga.
 	
-4.Delete (Menghapus)
+4.Delete (Menghapus) 
 
 Operasi ini dimanfaatkan untuk menghapus data yang ada dari basis data. Operasi ini digunakan untuk menghapus baris data yang tidak diperlukan lagi oleh user. Pada Capstone Project ini user diberi pilihan untuk menghapus Sebagian baris data atau menghapus seluruh koleksi data yang ada. Operasi delete ini disediakan dalam menu utama nomor empat.
 
